@@ -1,0 +1,16 @@
+nejatjobs incrementByTen {
+    kas kas kas kas kas kas kas kas kas kas
+}
+nejatjobs makeA {
+    incrementByTen
+    incrementByTen
+    incrementByTen
+    incrementByTen
+    incrementByTen
+    incrementByTen
+    kas kas kas kas kas
+}
+
+nejatjobs Alper {
+    ali makeA kasistan incrementByTen kas kasistan kas kas kas kas kasistan ali makeA kas kas kas kas kasistan sahin kas kas kasistan
+}
